@@ -22,11 +22,16 @@ Commit your code regularly and meaningfully.
 
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
-1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+1. How would you describe accessibility on the web to someone new to programming?
+    When making a webpage, you must consider it's usability to visually-impaired and even blind audiences. If you aren't adding alt tags to images and aren't allowing the user to change the font size, the webpage is much less accessible or readable by visually-impaired or blind audiences. Focus on giving the user what they need to understand the webpage even if they can't see it.
+2. Talk about 3 different things you can do to ensure your website is accessible.
+    You can add alt tags to images so that a blind person can know what it shows. You can have text scale so that the user can change the font size if they need bigger font. You can make sure that all of your html is in order and that you are using proper symantec HTML so that a screen reader gives the information in the way that the page is intended to be read.
 3. How would you explain the concept of a variable to someone new to programming?
+    A variable is a piece of data that can be used or changed indefinitely.
 4. What is the purpose of using functions in code?
+    Some actions you may want to do take more than one line to do so, but you have a reason to do it many times. If that is the case, it makes the most sense to make a reusable function and call it every time you want to do the action. Additionally, if you named your function well, it makes your code more readable.
 5. How do you access a key inside of an object inside of an array?
+    array[index].key
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 

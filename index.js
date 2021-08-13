@@ -308,7 +308,6 @@ function lotsOfArt(array) {
   return outputArray;
 }
 
-
 /* ***** END OF TASKS ***** */
 
 
